@@ -1,0 +1,45 @@
+name: Build Pages
+on:
+  push:
+    branches:
+      - main # triggers on pushes to main
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [22.x]
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BUILD_PAT }}
+          fetch-depth: 0
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Build
+        run: |
+          npm install --global yarn
+          yarn install
+          yarn run build
+
+      - name: Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          git status
+
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Deployment"
+          fi
+
+          git push origin --force
