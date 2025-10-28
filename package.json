@@ -1,0 +1,36 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "collectMovies:Watch": "npx ts-node-dev --clear --respawn --watch dataScripts/ --loader ts-node/esm dataScripts/movies.ts",
+    "collectMovies": "npx ts-node-dev --loader ts-node/esm dataScripts/movies.ts"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
+    "http-server": "^14.1.1",
+    "lodash-es": "^4.17.21",
+    "node-fetch": "^3.3.2",
+    "preact": "^10.26.9",
+    "preact-iso": "^2.11.0",
+    "preact-render-to-string": "^6.6.3",
+    "tailwindcss": "^4.1.16",
+    "vite-node": "^3.2.4",
+    "vite-plugin-svgr": "^4.5.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.2",
+    "@types/lodash": "^4.17.20",
+    "@types/xml2js": "^0.4.14",
+    "eslint": "^9.38.0",
+    "eslint-config-preact": "^2.0.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.0.4"
+  },
+  "eslintConfig": {
+    "extends": "preact"
+  }
+}

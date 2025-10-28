@@ -1,0 +1,37 @@
+name: Collect Data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 18 * * *'  # runs daily at 18:00 UTC
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    strategy:
+      matrix:
+        node-version: [22]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.DATA_PAT }}
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies and Collect data
+        run: |
+          npm install --global yarn
+          yarn
+          yarn run collectMovies
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Collected Data"
+          git push

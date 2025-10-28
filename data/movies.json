@@ -1,0 +1,540 @@
+{
+    "lastRan": "Wed, 29 Oct 2025 22:26:55 GMT",
+    "movies": [
+        {
+            "title": "The Mastermind, 2025",
+            "link": "https://letterboxd.com/bandary/film/the-mastermind-2025/",
+            "letterboxd:filmTitle": "The Mastermind",
+            "letterboxd:watchedDate": "2025-10-19",
+            "pubDate": "Thu, 23 Oct 2025 02:19:12 +1300"
+        },
+        {
+            "title": "No Other Choice, 2025 - ★★★★½",
+            "link": "https://letterboxd.com/bandary/film/no-other-choice-2025/",
+            "letterboxd:filmTitle": "No Other Choice",
+            "letterboxd:watchedDate": "2025-10-15",
+            "pubDate": "Fri, 17 Oct 2025 04:58:33 +1300",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "TRON: Ares, 2025",
+            "link": "https://letterboxd.com/bandary/film/tron-ares/",
+            "letterboxd:filmTitle": "TRON: Ares",
+            "letterboxd:watchedDate": "2025-10-11",
+            "pubDate": "Tue, 14 Oct 2025 02:15:22 +1300"
+        },
+        {
+            "title": "Exit 8, 2025 - ★★★½",
+            "link": "https://letterboxd.com/bandary/film/exit-8/",
+            "letterboxd:filmTitle": "Exit 8",
+            "letterboxd:watchedDate": "2025-10-08",
+            "pubDate": "Thu, 9 Oct 2025 08:02:11 +1300",
+            "letterboxd:memberRating": "3.5"
+        },
+        {
+            "title": "One Battle After Another, 2025",
+            "link": "https://letterboxd.com/bandary/film/one-battle-after-another/",
+            "letterboxd:filmTitle": "One Battle After Another",
+            "letterboxd:watchedDate": "2025-09-27",
+            "pubDate": "Sun, 28 Sep 2025 11:14:17 +1300"
+        },
+        {
+            "title": "A Big Bold Beautiful Journey, 2025",
+            "link": "https://letterboxd.com/bandary/film/a-big-bold-beautiful-journey/",
+            "letterboxd:filmTitle": "A Big Bold Beautiful Journey",
+            "letterboxd:watchedDate": "2025-09-20",
+            "pubDate": "Sun, 21 Sep 2025 23:33:15 +1200"
+        },
+        {
+            "title": "The Makanai: Cooking for the Maiko House, 2023 - ★★★★½",
+            "link": "https://letterboxd.com/bandary/film/the-makanai-cooking-for-the-maiko-house/",
+            "letterboxd:filmTitle": "The Makanai: Cooking for the Maiko House",
+            "letterboxd:watchedDate": "2025-08-30",
+            "pubDate": "Sun, 31 Aug 2025 08:11:42 +1200",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "Weapons, 2025 - ★★★",
+            "link": "https://letterboxd.com/bandary/film/weapons-2025/",
+            "letterboxd:filmTitle": "Weapons",
+            "letterboxd:watchedDate": "2025-08-22",
+            "pubDate": "Sun, 31 Aug 2025 08:10:08 +1200",
+            "letterboxd:memberRating": "3.0"
+        },
+        {
+            "title": "Eddington, 2025 - ★★★½",
+            "link": "https://letterboxd.com/bandary/film/eddington/",
+            "letterboxd:filmTitle": "Eddington",
+            "letterboxd:watchedDate": "2025-08-23",
+            "pubDate": "Tue, 26 Aug 2025 07:24:41 +1200",
+            "letterboxd:memberRating": "3.5"
+        },
+        {
+            "title": "Furiosa: A Mad Max Saga, 2024 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/furiosa-a-mad-max-saga/1/",
+            "letterboxd:filmTitle": "Furiosa: A Mad Max Saga",
+            "letterboxd:watchedDate": "2025-08-11",
+            "pubDate": "Tue, 12 Aug 2025 22:30:46 +1200",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "The Fantastic Four: First Steps, 2025",
+            "link": "https://letterboxd.com/bandary/film/the-fantastic-four-first-steps/",
+            "letterboxd:filmTitle": "The Fantastic Four: First Steps",
+            "letterboxd:watchedDate": "2025-08-01",
+            "pubDate": "Wed, 6 Aug 2025 03:34:30 +1200"
+        },
+        {
+            "title": "Evil Does Not Exist, 2023 - ★★★★★",
+            "link": "https://letterboxd.com/bandary/film/evil-does-not-exist/1/",
+            "letterboxd:filmTitle": "Evil Does Not Exist",
+            "letterboxd:watchedDate": "2025-08-04",
+            "pubDate": "Wed, 6 Aug 2025 00:14:39 +1200",
+            "letterboxd:memberRating": "5.0"
+        },
+        {
+            "title": "An Elephant Sitting Still, 2018 - ★★★★½",
+            "link": "https://letterboxd.com/bandary/film/an-elephant-sitting-still/",
+            "letterboxd:filmTitle": "An Elephant Sitting Still",
+            "letterboxd:watchedDate": "2025-07-30",
+            "pubDate": "Thu, 31 Jul 2025 23:56:28 +1200",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "Jurassic World Rebirth, 2025",
+            "link": "https://letterboxd.com/bandary/film/jurassic-world-rebirth/",
+            "letterboxd:filmTitle": "Jurassic World Rebirth",
+            "letterboxd:watchedDate": "2025-07-05",
+            "pubDate": "Fri, 18 Jul 2025 03:20:48 +1200"
+        },
+        {
+            "title": "Superman, 2025",
+            "link": "https://letterboxd.com/bandary/film/superman-2025/",
+            "letterboxd:filmTitle": "Superman",
+            "letterboxd:watchedDate": "2025-07-12",
+            "pubDate": "Fri, 18 Jul 2025 03:20:30 +1200"
+        },
+        {
+            "title": "F1, 2025 - ★★½",
+            "link": "https://letterboxd.com/bandary/film/f1/",
+            "letterboxd:filmTitle": "F1",
+            "letterboxd:watchedDate": "2025-06-27",
+            "pubDate": "Wed, 2 Jul 2025 03:26:07 +1200",
+            "letterboxd:memberRating": "2.5"
+        },
+        {
+            "title": "28 Years Later, 2025 - ★★★½",
+            "link": "https://letterboxd.com/bandary/film/28-years-later/",
+            "letterboxd:filmTitle": "28 Years Later",
+            "letterboxd:watchedDate": "2025-06-21",
+            "pubDate": "Mon, 23 Jun 2025 10:26:52 +1200",
+            "letterboxd:memberRating": "3.5"
+        },
+        {
+            "title": "The Assessment, 2024 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/the-assessment-2024/",
+            "letterboxd:filmTitle": "The Assessment",
+            "letterboxd:watchedDate": "2025-06-08",
+            "pubDate": "Tue, 10 Jun 2025 06:40:11 +1200",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "The Phoenician Scheme, 2025",
+            "link": "https://letterboxd.com/bandary/film/the-phoenician-scheme/",
+            "letterboxd:filmTitle": "The Phoenician Scheme",
+            "letterboxd:watchedDate": "2025-05-26",
+            "pubDate": "Wed, 28 May 2025 22:16:20 +1200"
+        },
+        {
+            "title": "We Are Little Zombies, 2019 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/we-are-little-zombies/",
+            "letterboxd:filmTitle": "We Are Little Zombies",
+            "letterboxd:watchedDate": "2025-05-21",
+            "pubDate": "Thu, 22 May 2025 23:15:26 +1200",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "The Whispering Star, 2015",
+            "link": "https://letterboxd.com/bandary/film/the-whispering-star/",
+            "letterboxd:filmTitle": "The Whispering Star",
+            "letterboxd:watchedDate": "2025-05-18",
+            "pubDate": "Tue, 20 May 2025 09:07:08 +1200"
+        },
+        {
+            "title": "The Third Murder, 2017",
+            "link": "https://letterboxd.com/bandary/film/the-third-murder/",
+            "letterboxd:filmTitle": "The Third Murder",
+            "letterboxd:watchedDate": "2025-05-10",
+            "pubDate": "Mon, 12 May 2025 09:09:43 +1200"
+        },
+        {
+            "title": "Ugetsu, 1953 - ★★★★½",
+            "link": "https://letterboxd.com/bandary/film/ugetsu/",
+            "letterboxd:filmTitle": "Ugetsu",
+            "letterboxd:watchedDate": "2025-05-03",
+            "pubDate": "Sun, 4 May 2025 11:51:43 +1200",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "Burning, 2018 - ★★★★½",
+            "link": "https://letterboxd.com/bandary/film/burning-2018/",
+            "letterboxd:filmTitle": "Burning",
+            "letterboxd:watchedDate": "2025-04-28",
+            "pubDate": "Tue, 29 Apr 2025 10:35:12 +1200",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "In Another Country, 2012",
+            "link": "https://letterboxd.com/bandary/film/in-another-country/",
+            "letterboxd:filmTitle": "In Another Country",
+            "letterboxd:watchedDate": "2025-04-27",
+            "pubDate": "Tue, 29 Apr 2025 02:02:37 +1200"
+        },
+        {
+            "title": "Secret Sunshine, 2007",
+            "link": "https://letterboxd.com/bandary/film/secret-sunshine/",
+            "letterboxd:filmTitle": "Secret Sunshine",
+            "letterboxd:watchedDate": "2025-04-26",
+            "pubDate": "Mon, 28 Apr 2025 07:05:03 +1200"
+        },
+        {
+            "title": "Warfare, 2025",
+            "link": "https://letterboxd.com/bandary/film/warfare/",
+            "letterboxd:filmTitle": "Warfare",
+            "letterboxd:watchedDate": "2025-04-26",
+            "pubDate": "Sun, 27 Apr 2025 09:12:40 +1200"
+        },
+        {
+            "title": "Grand Theft Hamlet, 2024",
+            "link": "https://letterboxd.com/bandary/film/grand-theft-hamlet/",
+            "letterboxd:filmTitle": "Grand Theft Hamlet",
+            "letterboxd:watchedDate": "2025-04-22",
+            "pubDate": "Thu, 24 Apr 2025 03:07:13 +1200"
+        },
+        {
+            "title": "After the Storm, 2016",
+            "link": "https://letterboxd.com/bandary/film/after-the-storm-2016/",
+            "letterboxd:filmTitle": "After the Storm",
+            "letterboxd:watchedDate": "2025-04-17",
+            "pubDate": "Thu, 17 Apr 2025 11:37:43 +1200"
+        },
+        {
+            "title": "Passion, 2008 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/passion-2008/",
+            "letterboxd:filmTitle": "Passion",
+            "letterboxd:watchedDate": "2025-04-15",
+            "pubDate": "Wed, 16 Apr 2025 10:54:18 +1200",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "Air Doll, 2009 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/air-doll/",
+            "letterboxd:filmTitle": "Air Doll",
+            "letterboxd:watchedDate": "2025-03-23",
+            "pubDate": "Thu, 27 Mar 2025 02:00:33 +1300",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "Asako I & II, 2018 - ★★★★½",
+            "link": "https://letterboxd.com/bandary/film/asako-i-ii/",
+            "letterboxd:filmTitle": "Asako I & II",
+            "letterboxd:watchedDate": "2025-03-22",
+            "pubDate": "Thu, 27 Mar 2025 02:00:12 +1300",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "Ai Weiwei: Yours Truly, 2019",
+            "link": "https://letterboxd.com/bandary/film/ai-weiwei-yours-truly/",
+            "letterboxd:filmTitle": "Ai Weiwei: Yours Truly",
+            "letterboxd:watchedDate": "2025-03-16",
+            "pubDate": "Mon, 17 Mar 2025 07:15:11 +1300"
+        },
+        {
+            "title": "Ai Weiwei: Never Sorry, 2012",
+            "link": "https://letterboxd.com/bandary/film/ai-weiwei-never-sorry/",
+            "letterboxd:filmTitle": "Ai Weiwei: Never Sorry",
+            "letterboxd:watchedDate": "2025-03-14",
+            "pubDate": "Mon, 17 Mar 2025 07:14:58 +1300"
+        },
+        {
+            "title": "True Mothers, 2020 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/true-mothers/",
+            "letterboxd:filmTitle": "True Mothers",
+            "letterboxd:watchedDate": "2025-03-08",
+            "pubDate": "Mon, 10 Mar 2025 08:59:58 +1300",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "Cottontail, 2023",
+            "link": "https://letterboxd.com/bandary/film/cottontail-2023/",
+            "letterboxd:filmTitle": "Cottontail",
+            "letterboxd:watchedDate": "2025-03-08",
+            "pubDate": "Mon, 10 Mar 2025 08:58:59 +1300"
+        },
+        {
+            "title": "Mickey 17, 2025",
+            "link": "https://letterboxd.com/bandary/film/mickey-17/",
+            "letterboxd:filmTitle": "Mickey 17",
+            "letterboxd:watchedDate": "2025-03-07",
+            "pubDate": "Mon, 10 Mar 2025 08:58:20 +1300"
+        },
+        {
+            "title": "Beau Is Afraid, 2023 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/beau-is-afraid/",
+            "letterboxd:filmTitle": "Beau Is Afraid",
+            "letterboxd:watchedDate": "2025-03-01",
+            "pubDate": "Mon, 3 Mar 2025 09:45:15 +1300",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "Black Box Diaries, 2024",
+            "link": "https://letterboxd.com/bandary/film/black-box-diaries/",
+            "letterboxd:filmTitle": "Black Box Diaries",
+            "letterboxd:watchedDate": "2025-02-22",
+            "pubDate": "Mon, 24 Feb 2025 07:00:06 +1300"
+        },
+        {
+            "title": "A Complete Unknown, 2024",
+            "link": "https://letterboxd.com/bandary/film/a-complete-unknown/",
+            "letterboxd:filmTitle": "A Complete Unknown",
+            "letterboxd:watchedDate": "2025-02-08",
+            "pubDate": "Sun, 9 Feb 2025 14:51:06 +1300"
+        },
+        {
+            "title": "Queer, 2024",
+            "link": "https://letterboxd.com/bandary/film/queer-2024/",
+            "letterboxd:filmTitle": "Queer",
+            "letterboxd:watchedDate": "2025-01-31",
+            "pubDate": "Sun, 2 Feb 2025 10:34:23 +1300"
+        },
+        {
+            "title": "The Brutalist, 2024 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/the-brutalist/",
+            "letterboxd:filmTitle": "The Brutalist",
+            "letterboxd:watchedDate": "2025-01-25",
+            "pubDate": "Mon, 27 Jan 2025 13:22:31 +1300",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "Pig, 2021",
+            "link": "https://letterboxd.com/bandary/film/pig-2021/",
+            "letterboxd:filmTitle": "Pig",
+            "letterboxd:watchedDate": "2025-01-20",
+            "pubDate": "Wed, 22 Jan 2025 05:41:50 +1300"
+        },
+        {
+            "title": "Decision to Leave, 2022 - ★★★★½",
+            "link": "https://letterboxd.com/bandary/film/decision-to-leave/",
+            "letterboxd:filmTitle": "Decision to Leave",
+            "letterboxd:watchedDate": "2025-01-15",
+            "pubDate": "Thu, 16 Jan 2025 08:30:16 +1300",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "Marcel the Shell with Shoes On, 2021",
+            "link": "https://letterboxd.com/bandary/film/marcel-the-shell-with-shoes-on-2021/",
+            "letterboxd:filmTitle": "Marcel the Shell with Shoes On",
+            "letterboxd:watchedDate": "2025-01-06",
+            "pubDate": "Tue, 7 Jan 2025 06:23:23 +1300"
+        },
+        {
+            "title": "Sonic the Hedgehog 3, 2024 - ★½",
+            "link": "https://letterboxd.com/bandary/film/sonic-the-hedgehog-3/",
+            "letterboxd:filmTitle": "Sonic the Hedgehog 3",
+            "letterboxd:watchedDate": "2024-12-28",
+            "pubDate": "Mon, 30 Dec 2024 06:38:13 +1300",
+            "letterboxd:memberRating": "1.5"
+        },
+        {
+            "title": "Wallace & Gromit: Vengeance Most Fowl, 2024",
+            "link": "https://letterboxd.com/bandary/film/wallace-gromit-vengeance-most-fowl/",
+            "letterboxd:filmTitle": "Wallace & Gromit: Vengeance Most Fowl",
+            "letterboxd:watchedDate": "2024-12-25",
+            "pubDate": "Fri, 27 Dec 2024 06:51:37 +1300"
+        },
+        {
+            "title": "Hayao Miyazaki and the Heron, 2024 - ★★★½",
+            "link": "https://letterboxd.com/bandary/film/hayao-miyazaki-and-the-heron/",
+            "letterboxd:filmTitle": "Hayao Miyazaki and the Heron",
+            "letterboxd:watchedDate": "2024-12-22",
+            "pubDate": "Mon, 23 Dec 2024 12:39:08 +1300",
+            "letterboxd:memberRating": "3.5"
+        },
+        {
+            "title": "The Wind Rises, 2013",
+            "link": "https://letterboxd.com/bandary/film/the-wind-rises/",
+            "letterboxd:filmTitle": "The Wind Rises",
+            "letterboxd:watchedDate": "2024-12-12",
+            "pubDate": "Mon, 16 Dec 2024 02:40:35 +1300"
+        },
+        {
+            "title": "Ryuichi Sakamoto: Coda, 2017 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/ryuichi-sakamoto-coda/",
+            "letterboxd:filmTitle": "Ryuichi Sakamoto: Coda",
+            "letterboxd:watchedDate": "2024-12-09",
+            "pubDate": "Tue, 10 Dec 2024 13:13:13 +1300",
+            "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "The Creator",
+            "link": "https://boxd.it/80kq1t",
+            "letterboxd:filmTitle": "The Creator",
+            "letterboxd:watchedDate": "2023-09-30",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Napoleon",
+            "link": "https://boxd.it/80kn3B",
+            "letterboxd:filmTitle": "Napoleon",
+            "letterboxd:watchedDate": "2023-11-08",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Poor Things",
+            "link": "https://boxd.it/80ks45",
+            "letterboxd:filmTitle": "Poor Things",
+            "letterboxd:watchedDate": "2024-01-19",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "The Zone of Interest",
+            "link": "https://boxd.it/80kxD5",
+            "letterboxd:filmTitle": "The Zone of Interest",
+            "letterboxd:watchedDate": "2024-02-03",
+            "letterboxd:memberRating": "5"
+        },
+        {
+            "title": "The Taste of Things",
+            "link": "https://boxd.it/80kuvH",
+            "letterboxd:filmTitle": "The Taste of Things",
+            "letterboxd:watchedDate": "2024-02-17",
+            "letterboxd:memberRating": "3.5"
+        },
+        {
+            "title": "Dune: Part Two",
+            "link": "https://boxd.it/80kh2H",
+            "letterboxd:filmTitle": "Dune: Part Two",
+            "letterboxd:watchedDate": "2024-03-08",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Monster",
+            "link": "https://boxd.it/80kyFL",
+            "letterboxd:filmTitle": "Monster",
+            "letterboxd:watchedDate": "2024-03-08",
+            "letterboxd:memberRating": "4.5"
+        },
+        {
+            "title": "Monkey Man",
+            "link": "https://boxd.it/80klsJ",
+            "letterboxd:filmTitle": "Monkey Man",
+            "letterboxd:watchedDate": "2024-04-06",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Civil War",
+            "link": "https://boxd.it/80kg7B",
+            "letterboxd:filmTitle": "Civil War",
+            "letterboxd:watchedDate": "2024-04-12",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Challengers",
+            "link": "https://boxd.it/80kjpX",
+            "letterboxd:filmTitle": "Challengers",
+            "letterboxd:watchedDate": "2024-04-27",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Kingdom of the Planet of the Apes",
+            "link": "https://boxd.it/80kf3N",
+            "letterboxd:filmTitle": "Kingdom of the Planet of the Apes",
+            "letterboxd:watchedDate": "2024-05-10",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "La Chimera",
+            "link": "https://boxd.it/80kt75",
+            "letterboxd:filmTitle": "La Chimera",
+            "letterboxd:watchedDate": "2024-05-12",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "The Beast",
+            "link": "https://boxd.it/80kqWf",
+            "letterboxd:filmTitle": "The Beast",
+            "letterboxd:watchedDate": "2024-06-16",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Asteroid City",
+            "link": "https://boxd.it/80kwEr",
+            "letterboxd:filmTitle": "Asteroid City",
+            "letterboxd:watchedDate": "2024-06-24",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Alien: Romulus",
+            "link": "https://boxd.it/80kicN",
+            "letterboxd:filmTitle": "Alien: Romulus",
+            "letterboxd:watchedDate": "2024-08-16",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "The Substance",
+            "link": "https://boxd.it/80kcAJ",
+            "letterboxd:filmTitle": "The Substance",
+            "letterboxd:watchedDate": "2024-09-21",
+            "letterboxd:memberRating": "3.5"
+        },
+        {
+            "title": "Megalopolis",
+            "link": "https://boxd.it/80kbKD",
+            "letterboxd:filmTitle": "Megalopolis",
+            "letterboxd:watchedDate": "2024-09-28",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Joker: Folie à Deux",
+            "link": "https://boxd.it/80kdpn",
+            "letterboxd:filmTitle": "Joker: Folie à Deux",
+            "letterboxd:watchedDate": "2024-10-04",
+            "letterboxd:memberRating": ""
+        },
+        {
+            "title": "Anora",
+            "link": "https://boxd.it/80kay7",
+            "letterboxd:filmTitle": "Anora",
+            "letterboxd:watchedDate": "2024-11-02",
+            "letterboxd:memberRating": "3"
+        },
+        {
+            "title": "Gladiator II",
+            "link": "https://boxd.it/80k9ut",
+            "letterboxd:filmTitle": "Gladiator II",
+            "letterboxd:watchedDate": "2024-11-16",
+            "letterboxd:memberRating": "1.5"
+        },
+        {
+            "title": "TÁR",
+            "link": "https://boxd.it/80kvAD",
+            "letterboxd:filmTitle": "TÁR",
+            "letterboxd:watchedDate": "2024-11-30",
+            "letterboxd:memberRating": "4"
+        },
+        {
+            "title": "The Green Knight",
+            "link": "https://boxd.it/7ZT7sh",
+            "letterboxd:filmTitle": "The Green Knight",
+            "letterboxd:watchedDate": "2024-12-08",
+            "letterboxd:memberRating": "3.5"
+        },
+        {
+            "title": "The Fantastic 4: First Steps, 2025",
+            "link": "https://letterboxd.com/bandary/film/the-fantastic-4-first-steps/",
+            "letterboxd:filmTitle": "The Fantastic 4: First Steps",
+            "letterboxd:watchedDate": "2025-08-01",
+            "pubDate": "Wed, 6 Aug 2025 03:34:30 +1200"
+        }
+    ]
+}
