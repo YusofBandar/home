@@ -1,5 +1,5 @@
 {
-    "lastRan": "Thu, 30 Oct 2025 18:27:54 GMT",
+    "lastRan": "Fri, 31 Oct 2025 18:27:48 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -535,6 +535,13 @@
             "letterboxd:filmTitle": "The Fantastic 4: First Steps",
             "letterboxd:watchedDate": "2025-08-01",
             "pubDate": "Wed, 6 Aug 2025 03:34:30 +1200"
+        },
+        {
+            "title": "The Cardboard Bernini, 2012",
+            "link": "https://letterboxd.com/bandary/film/the-cardboard-bernini/",
+            "letterboxd:filmTitle": "The Cardboard Bernini",
+            "letterboxd:watchedDate": "2025-10-30",
+            "pubDate": "Fri, 31 Oct 2025 09:11:10 +1300"
         }
     ]
 }
