@@ -27,6 +27,7 @@ jobs:
           npm install --global yarn
           yarn
           yarn run collectMovies
+          yarn run collectItems
 
       - name: Commit and push
         run: |

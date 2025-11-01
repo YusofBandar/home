@@ -6,3 +6,12 @@ export interface Movie {
   pubDate?: string;
   "letterboxd:memberRating"?: string;
 }
+
+export interface Item {
+  title: string;
+  link?: string;
+  buyDate: string;
+  price: number;
+  currency: string;
+  pricePerDay: number;
+}
