@@ -1,5 +1,14 @@
 {
-  "updated": "Sat, 01 Nov 2025 13:33:33 GMT",
-  "items": []
+    "updated": "Sat, 01 Nov 2025 15:50:24 GMT",
+    "items": [
+        {
+            "title": "iPhone 15 Pro",
+            "link": "https://www.apple.com/uk/shop/product/ftv93zd/a/refurbished-iphone-15-pro-512gb-natural-titanium-sim-free",
+            "buyDate": "Nov 23, 2023",
+            "price": 1299,
+            "currency": "GBD",
+            "pricePerDay": 1.8304539923519056,
+            "isBroken": false
+        }
+    ]
 }
-
