@@ -7,12 +7,14 @@ export interface Movie {
   "letterboxd:memberRating"?: string;
 }
 
+export type Currency = "GBD" | "USD";
+
 export interface Item {
   title: string;
   link?: string;
   buyDate: string;
   price: number;
-  currency: string;
+  currency: Currency;
   pricePerDay: number;
   isBroken?: boolean;
 }
