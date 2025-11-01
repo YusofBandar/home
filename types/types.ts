@@ -14,4 +14,5 @@ export interface Item {
   price: number;
   currency: string;
   pricePerDay: number;
+  isBroken?: boolean;
 }
