@@ -24,6 +24,28 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
+      - name: Catch Up
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git fetch origin main
+          git checkout pages
+          git pull
+          git status
+
+          git rebase origin/main
+          git add .
+
+          git add -A
+
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Deployment"
+          fi
+
+          git push origin pages --force
+
       - name: Build
         run: |
           npm install --global yarn
