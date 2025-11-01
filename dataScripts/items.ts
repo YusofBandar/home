@@ -11,7 +11,9 @@ const DATA_PATH = path.join(DIR_NAME, "../data/items.json");
 const getItems = async () => {
   let items = readItemsDataFile().map((item) => ({
     ...item,
-    pricePerDay: item.price / diffInDays(new Date(item.buyDate), new Date()),
+    pricePerDay: item.isBroken
+      ? item.pricePerDay
+      : item.price / diffInDays(new Date(item.buyDate), new Date()),
   }));
 
   console.log(`WRITTEN ${items.length} ITEMS`);
