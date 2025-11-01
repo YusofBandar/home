@@ -6,8 +6,7 @@
     "noEmit": true,
     "allowJs": true,
     "checkJs": true,
-
-    "types": ["vite-plugin-svgr/client"],
+    "types": ["vite-plugin-svgr/client", "nodes"],
 
     /* Preact Config */
     "jsx": "react-jsx",

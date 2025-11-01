@@ -55,7 +55,6 @@ const getWatchedMovies = async () => {
   }
 
   const username = "bandary";
-
   const res = await fetch(`https://letterboxd.com/${username}/rss/`);
   const xml = await res.text();
   const data = await parseStringPromise(xml);
@@ -67,7 +66,7 @@ const getWatchedMovies = async () => {
     watchedMovies[movie["letterboxd:filmTitle"]] = movie;
   }
 
-  writeToMovieDataFile(watchedMovies);
+  writeToMovieDataFile(Object.values(watchedMovies));
   console.log(`WRITTEN ${Object.keys(watchedMovies).length} MOVIES`);
 };
 
@@ -86,11 +85,10 @@ const readMovieDataFile = (): Movie[] => {
   }
 };
 
-const writeToMovieDataFile = (movies: { [id: string]: Movie }) => {
-  const list = Object.values(movies);
+const writeToMovieDataFile = (movies: Movie[]) => {
   const currentDate = new Date().toUTCString();
   const jsonList = JSON.stringify(
-    { lastRan: currentDate, movies: list },
+    { updated: currentDate, movies },
     undefined,
     4,
   );

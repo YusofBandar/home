@@ -5,10 +5,12 @@
     "build": "vite build",
     "preview": "vite preview",
     "collectMovies:Watch": "npx ts-node-dev --clear --respawn --watch dataScripts/ --loader ts-node/esm dataScripts/movies.ts",
-    "collectMovies": "npx ts-node-dev --loader ts-node/esm dataScripts/movies.ts"
+    "collectMovies": "npx ts-node-dev --loader ts-node/esm dataScripts/movies.ts",
+    "collectItems": "npx ts-node-dev --loader ts-node/esm dataScripts/items.ts"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",
+    "@types/node": "^24.9.2",
     "http-server": "^14.1.1",
     "lodash-es": "^4.17.21",
     "node-fetch": "^3.3.2",

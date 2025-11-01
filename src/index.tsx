@@ -1,8 +1,12 @@
-import { hydrate, prerender as ssr } from "preact-iso";
+import { hydrate, LocationProvider, prerender as ssr } from "preact-iso";
 import { Home } from "./Home";
 
 export function App() {
-  return <Home />;
+  return (
+    <LocationProvider scope="/home">
+      <Home />
+    </LocationProvider>
+  );
 }
 
 if (typeof window !== "undefined") {

@@ -21,3 +21,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.strike-through:before {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 1px;
+    background: oklch(87.1% 0.006 286.286);
+    box-shadow: #27272a 0px 0px 0px 2px;
+    width: 90%;
+    transform: translate(5%, -50%);
+}
