@@ -1,14 +1,85 @@
 {
-    "updated": "Sat, 01 Nov 2025 15:50:24 GMT",
-    "items": [
-        {
-            "title": "iPhone 15 Pro",
-            "link": "https://www.apple.com/uk/shop/product/ftv93zd/a/refurbished-iphone-15-pro-512gb-natural-titanium-sim-free",
-            "buyDate": "Nov 23, 2023",
-            "price": 1299,
-            "currency": "GBD",
-            "pricePerDay": 1.8304539923519056,
-            "isBroken": false
-        }
-    ]
+  "updated": "Sat, 01 Nov 2025 15:50:24 GMT",
+  "items": [
+    {
+      "title": "iPhone 15 Pro",
+      "link": "https://www.apple.com/uk/shop/product/ftv93zd/a/refurbished-iphone-15-pro-512gb-natural-titanium-sim-free",
+      "buyDate": "Nov 23, 2023",
+      "price": 1299,
+      "currency": "GBD",
+      "pricePerDay": 1.8304539923519056,
+      "isBroken": false
+    },
+    {
+      "title": "iPad Pro 11-inch (3rd generation)",
+      "link": "https://support.apple.com/en-gb/111897",
+      "buyDate": "Aug 15, 2019",
+      "price": 1250,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    },
+    {
+      "title": "Apple Watch Series 8",
+      "buyDate": "Oct 30, 2022",
+      "price": 449,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    },
+    {
+      "title": "M3 13-inch MacBook Air",
+      "buyDate": "Jan 23, 2025",
+      "price": 1099,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    },
+    {
+      "title": "Apple Magic Keyboard",
+      "link": "https://www.apple.com/uk/shop/product/mxcl3b/a/magic-keyboard-usb-c-british-english",
+      "buyDate": "Aug 10, 2022",
+      "price": 99,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    },
+    {
+      "title": "Apple Magic Mouse",
+      "link": "https://www.apple.com/uk/shop/product/mxk53z/a/magic-mouse-usb%E2%80%91c-white-multi-touch-surface",
+      "buyDate": "Aug 10, 2022",
+      "price": 79,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    },
+    {
+      "title": "Base Camp Daypack",
+      "link": "https://www.thenorthface.com/en-gb/p/bags-and-equipment-211747/base-camp-daypack-NF0A8BK4?color=ZU3",
+      "buyDate": "Feb 28, 2025",
+      "price": 115,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    },
+    {
+      "title": "The North Face X Ocean Bottle 0.9L",
+      "link": "https://www.thenorthface.com/en-gb/p/women-211718/the-north-face-x-ocean-bottle-0-9l-water-bottle-NF0A8A06?color=ZU3",
+      "buyDate": "Feb 28, 2025",
+      "price": 55,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    },
+    {
+      "title": "AOC CU34G2X/BK 34 Gaming Monitor",
+      "link": "https://aoc.com/uk/gaming/products/monitors/cu34g2x-bk",
+      "buyDate": "Oct 3, 2022",
+      "price": 390,
+      "currency": "GBD",
+      "pricePerDay": 0,
+      "isBroken": false
+    }
+  ]
 }
+
