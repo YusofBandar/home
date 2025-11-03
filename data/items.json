@@ -1,5 +1,5 @@
 {
-    "updated": "Sun, 02 Nov 2025 18:23:16 GMT",
+    "updated": "Mon, 03 Nov 2025 18:27:25 GMT",
     "items": [
         {
             "title": "iPhone 15 Pro",
@@ -7,7 +7,7 @@
             "buyDate": "Nov 23, 2023",
             "price": 1299,
             "currency": "GBD",
-            "pricePerDay": 1.827605301520812,
+            "pricePerDay": 1.8250301924107846,
             "isBroken": false
         },
         {
@@ -16,7 +16,7 @@
             "buyDate": "Aug 15, 2019",
             "price": 1250,
             "currency": "GBD",
-            "pricePerDay": 0.5502326879671366,
+            "pricePerDay": 0.5499898909176848,
             "isBroken": false
         },
         {
@@ -24,7 +24,7 @@
             "buyDate": "Oct 30, 2022",
             "price": 449,
             "currency": "GBD",
-            "pricePerDay": 0.408268609103215,
+            "pricePerDay": 0.4078966440800136,
             "isBroken": false
         },
         {
@@ -32,7 +32,7 @@
             "buyDate": "Jan 23, 2025",
             "price": 1099,
             "currency": "GBD",
-            "pricePerDay": 3.87290720138082,
+            "pricePerDay": 3.859267758438752,
             "isBroken": false
         },
         {
@@ -41,7 +41,7 @@
             "buyDate": "Aug 10, 2022",
             "price": 99,
             "currency": "GBD",
-            "pricePerDay": 0.08384386634097166,
+            "pricePerDay": 0.0837727137023674,
             "isBroken": false
         },
         {
@@ -50,7 +50,7 @@
             "buyDate": "Aug 10, 2022",
             "price": 79,
             "currency": "GBD",
-            "pricePerDay": 0.06690571152461375,
+            "pricePerDay": 0.06684893315643459,
             "isBroken": false
         },
         {
@@ -59,7 +59,7 @@
             "buyDate": "Feb 28, 2025",
             "price": 115,
             "currency": "GBD",
-            "pricePerDay": 0.46414732563943234,
+            "pricePerDay": 0.462276161721381,
             "isBroken": false
         },
         {
@@ -68,7 +68,7 @@
             "buyDate": "Feb 28, 2025",
             "price": 55,
             "currency": "GBD",
-            "pricePerDay": 0.22198350356668503,
+            "pricePerDay": 0.22108859908413872,
             "isBroken": false
         },
         {
@@ -77,7 +77,7 @@
             "buyDate": "Oct 3, 2022",
             "price": 390,
             "currency": "GBD",
-            "pricePerDay": 0.3461232811683107,
+            "pricePerDay": 0.34581548517290905,
             "isBroken": false
         }
     ]
