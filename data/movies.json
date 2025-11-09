@@ -1,5 +1,5 @@
 {
-    "updated": "Sat, 08 Nov 2025 18:24:40 GMT",
+    "updated": "Sun, 09 Nov 2025 18:24:07 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -542,6 +542,14 @@
             "letterboxd:filmTitle": "The Cardboard Bernini",
             "letterboxd:watchedDate": "2025-10-30",
             "pubDate": "Fri, 31 Oct 2025 09:11:10 +1300"
+        },
+        {
+            "title": "Frankenstein, 2025 - ★★★",
+            "link": "https://letterboxd.com/bandary/film/frankenstein-2025/",
+            "letterboxd:filmTitle": "Frankenstein",
+            "letterboxd:watchedDate": "2025-11-08",
+            "pubDate": "Sun, 9 Nov 2025 12:00:12 +1300",
+            "letterboxd:memberRating": "3.0"
         }
     ]
 }
