@@ -7,6 +7,19 @@ export interface Movie {
   "letterboxd:memberRating"?: string;
 }
 
+export interface TweetsResponse {
+  data: Tweet[];
+  meta?: {
+    next_token?: string;
+  };
+}
+
+export interface Tweet {
+  id: string;
+  author_id: string;
+  text: string;
+}
+
 export type Currency = "GBD" | "USD";
 
 export interface Item {
