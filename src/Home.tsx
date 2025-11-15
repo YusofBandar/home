@@ -2,9 +2,11 @@ import { Link } from "./Link";
 import { Table } from "./Table";
 import moviesData from "../data/movies.json";
 import itemsData from "../data/items.json";
+import tweetsData from "../data/tweets.json";
 import Star from "./assets/star.svg?react";
 import { Route, Router } from "preact-iso";
 import { Currency, Item } from "../types/types";
+import { useCallback, useEffect, useRef } from "preact/hooks";
 
 const formatDate = (date: Date) => {
   let month = "" + (date.getMonth() + 1);
@@ -57,6 +59,7 @@ function MovieRating({ rating, size = 12 }: MovieRatingProps) {
 }
 
 const PAGES = [
+  { title: "TWEETS", url: "/tweets", component: TweetsPage },
   { title: "CINEMA", url: "/cinema", component: MoviesPage },
   { title: "ITEMS", url: "/", component: ItemsPage },
 ];
@@ -165,6 +168,93 @@ function MoviesPage() {
       </nav>
       <div className="mt-20">
         <Table columns={["Title", "Rating", "Watched Date"]} rows={movies} />
+      </div>
+    </>
+  );
+}
+
+function TweetsPage() {
+  const containerRef = useRef(null);
+
+  const tweetUrls = tweetsData.tweets.map(
+    (tweet) => `https://twitter.com/username/status/${tweet.id}`,
+  );
+
+  const createWidgetScript = useCallback(() => {
+    const script = document.createElement("script");
+    script.id = "twitter-wjs";
+    script.src = "https://platform.twitter.com/widgets.js";
+    script.async = true;
+    document.body.appendChild(script);
+  }, []);
+
+  useEffect(() => {
+    if (!document.getElementById("twitter-wjs")) {
+      createWidgetScript();
+    }
+  }, []);
+
+  useEffect(() => {
+    if (!containerRef.current) return;
+
+    const placeholders = containerRef.current.querySelectorAll(
+      ".twitter-tweet-placeholder",
+    );
+
+    const observer = new IntersectionObserver(
+      (entries, obs) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const div = entry.target;
+            const url = (div as any).dataset.url;
+
+            // create blockquote
+            const blockquote = document.createElement("blockquote");
+            blockquote.className = "twitter-tweet";
+            const a = document.createElement("a");
+            a.href = url;
+            blockquote.appendChild(a);
+
+            div.appendChild(blockquote);
+
+            obs.unobserve(div);
+          }
+        });
+
+        // reload script to trigger loading of widgets
+        const script = document.getElementById("twitter-wjs");
+        script.remove();
+
+        createWidgetScript();
+      },
+      { rootMargin: "200px" },
+    );
+
+    placeholders.forEach((p) => observer.observe(p));
+  }, [tweetUrls]);
+
+  return (
+    <>
+      <nav className="flex flex-col mt-10 gap-1">
+        {PAGES.map(({ title, url }) => (
+          <Link
+            href={`/home${url}`}
+            className="p-2"
+            key={title}
+            isActive={title === "TWEETS"}
+          >
+            {title}
+          </Link>
+        ))}
+      </nav>
+      <div className="mt-20 flex flex-col gap-5" ref={containerRef}>
+        {tweetUrls.map((url) => (
+          <div
+            className="twitter-tweet-placeholder min-h-[100px]"
+            key={url}
+            data-url={url}
+          />
+        ))}
       </div>
     </>
   );
