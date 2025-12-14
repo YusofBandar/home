@@ -1,5 +1,5 @@
 {
-    "updated": "Sat, 13 Dec 2025 18:26:03 GMT",
+    "updated": "Sun, 14 Dec 2025 18:27:12 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -550,6 +550,14 @@
             "letterboxd:watchedDate": "2025-11-08",
             "pubDate": "Sun, 9 Nov 2025 12:00:12 +1300",
             "letterboxd:memberRating": "3.0"
+        },
+        {
+            "title": "Sinners, 2025 - ★★★½",
+            "link": "https://letterboxd.com/bandary/film/sinners-2025/",
+            "letterboxd:filmTitle": "Sinners",
+            "letterboxd:watchedDate": "2025-12-13",
+            "pubDate": "Sun, 14 Dec 2025 10:09:31 +1300",
+            "letterboxd:memberRating": "3.5"
         }
     ]
 }
