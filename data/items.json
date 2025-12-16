@@ -1,5 +1,5 @@
 {
-    "updated": "Mon, 15 Dec 2025 18:31:44 GMT",
+    "updated": "Tue, 16 Dec 2025 18:31:31 GMT",
     "items": [
         {
             "title": "LEGO 10266 NASA Apollo 11 Lunar Lander",
@@ -7,7 +7,7 @@
             "buyDate": "Jul 12, 2021",
             "price": 85,
             "currency": "GBD",
-            "pricePerDay": 0.052541395217007326,
+            "pricePerDay": 0.052508942508480864,
             "isBroken": false
         },
         {
@@ -16,7 +16,7 @@
             "buyDate": "Feb 1, 2020",
             "price": 65,
             "currency": "GBD",
-            "pricePerDay": 0.03030625113515896,
+            "pricePerDay": 0.030292129542882393,
             "isBroken": false
         },
         {
@@ -25,7 +25,7 @@
             "buyDate": "Nov 22, 2019",
             "price": 110,
             "currency": "GBD",
-            "pricePerDay": 0.04964409611278867,
+            "pricePerDay": 0.049621704694436074,
             "isBroken": false
         },
         {
@@ -34,7 +34,7 @@
             "buyDate": "Nov 23, 2023",
             "price": 1299,
             "currency": "GBD",
-            "pricePerDay": 1.7233326989535536,
+            "pricePerDay": 1.7210497909320956,
             "isBroken": false
         },
         {
@@ -43,7 +43,7 @@
             "buyDate": "Aug 15, 2019",
             "price": 1250,
             "currency": "GBD",
-            "pricePerDay": 0.540009979246714,
+            "pricePerDay": 0.5397768262457395,
             "isBroken": false
         },
         {
@@ -51,7 +51,7 @@
             "buyDate": "Oct 30, 2022",
             "price": 449,
             "currency": "GBD",
-            "pricePerDay": 0.39290425843131244,
+            "pricePerDay": 0.39256079356445567,
             "isBroken": false
         },
         {
@@ -59,7 +59,7 @@
             "buyDate": "Jan 23, 2025",
             "price": 1099,
             "currency": "GBD",
-            "pricePerDay": 3.3632008662057404,
+            "pricePerDay": 3.35294160457524,
             "isBroken": false
         },
         {
@@ -68,7 +68,7 @@
             "buyDate": "Aug 10, 2022",
             "price": 99,
             "currency": "GBD",
-            "pricePerDay": 0.08089741958146397,
+            "pricePerDay": 0.08083137845670263,
             "isBroken": false
         },
         {
@@ -77,7 +77,7 @@
             "buyDate": "Aug 10, 2022",
             "price": 79,
             "currency": "GBD",
-            "pricePerDay": 0.06455450653470357,
+            "pricePerDay": 0.06450180705130816,
             "isBroken": false
         },
         {
@@ -86,7 +86,7 @@
             "buyDate": "Feb 28, 2025",
             "price": 115,
             "currency": "GBD",
-            "pricePerDay": 0.3954988276671794,
+            "pricePerDay": 0.3941435235530164,
             "isBroken": false
         },
         {
@@ -95,7 +95,7 @@
             "buyDate": "Feb 28, 2025",
             "price": 55,
             "currency": "GBD",
-            "pricePerDay": 0.18915161323212928,
+            "pricePerDay": 0.18850342430796435,
             "isBroken": false
         },
         {
@@ -104,7 +104,7 @@
             "buyDate": "Oct 3, 2022",
             "price": 390,
             "currency": "GBD",
-            "pricePerDay": 0.333398292534885,
+            "pricePerDay": 0.33311356721650465,
             "isBroken": false
         },
         {
@@ -113,7 +113,7 @@
             "buyDate": "Jul 20, 2023",
             "price": 168,
             "currency": "GBD",
-            "pricePerDay": 0.19095855837051215,
+            "pricePerDay": 0.1907417826269869,
             "isBroken": false
         },
         {
@@ -122,7 +122,7 @@
             "buyDate": "Jan 25, 2024",
             "price": 130,
             "currency": "GBD",
-            "pricePerDay": 0.18819522638253863,
+            "pricePerDay": 0.1879232189972789,
             "isBroken": false
         },
         {
@@ -130,7 +130,7 @@
             "buyDate": "Sep 1, 2022",
             "price": 220,
             "currency": "GBD",
-            "pricePerDay": 0.18306300455646388,
+            "pricePerDay": 0.18291082639990788,
             "isBroken": false
         },
         {
@@ -139,7 +139,7 @@
             "buyDate": "March 28, 2025",
             "price": 36,
             "currency": "GBD",
-            "pricePerDay": 0.1370008784993257,
+            "pricePerDay": 0.13648156472032844,
             "isBroken": false
         },
         {
@@ -148,7 +148,7 @@
             "buyDate": "December 5, 2024",
             "price": 25,
             "currency": "GBD",
-            "pricePerDay": 0.06652969752048084,
+            "pricePerDay": 0.06635314575722684,
             "isBroken": false
         },
         {
@@ -156,7 +156,7 @@
             "buyDate": "Nov 23, 2023",
             "price": 33,
             "currency": "GBD",
-            "pricePerDay": 0.04377981452306949,
+            "pricePerDay": 0.04372181916917564,
             "isBroken": false
         },
         {
@@ -165,7 +165,7 @@
             "buyDate": "Oct 6, 2022",
             "price": 25,
             "currency": "GBD",
-            "pricePerDay": 0.021426636218364183,
+            "pricePerDay": 0.021408290657999738,
             "isBroken": false
         }
     ]
