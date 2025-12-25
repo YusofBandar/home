@@ -1,5 +1,5 @@
 {
-    "updated": "Wed, 24 Dec 2025 18:29:39 GMT",
+    "updated": "Thu, 25 Dec 2025 18:29:01 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -565,6 +565,13 @@
             "letterboxd:filmTitle": "The New Yorker at 100",
             "letterboxd:watchedDate": "2025-12-19",
             "pubDate": "Sat, 20 Dec 2025 07:26:41 +1300"
+        },
+        {
+            "title": "Materialists, 2025",
+            "link": "https://letterboxd.com/bandary/film/materialists/",
+            "letterboxd:filmTitle": "Materialists",
+            "letterboxd:watchedDate": "2025-12-24",
+            "pubDate": "Thu, 25 Dec 2025 13:52:48 +1300"
         }
     ]
 }
