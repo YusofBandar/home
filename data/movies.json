@@ -1,5 +1,5 @@
 {
-    "updated": "Thu, 01 Jan 2026 18:29:33 GMT",
+    "updated": "Fri, 02 Jan 2026 18:29:23 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -579,6 +579,13 @@
             "letterboxd:filmTitle": "Arrival",
             "letterboxd:watchedDate": "2025-12-26",
             "pubDate": "Sat, 27 Dec 2025 13:59:48 +1300"
+        },
+        {
+            "title": "Wake Up Dead Man, 2025",
+            "link": "https://letterboxd.com/bandary/film/wake-up-dead-man/",
+            "letterboxd:filmTitle": "Wake Up Dead Man",
+            "letterboxd:watchedDate": "2026-01-01",
+            "pubDate": "Sat, 3 Jan 2026 02:26:01 +1300"
         }
     ]
 }
