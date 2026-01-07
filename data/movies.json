@@ -1,5 +1,5 @@
 {
-    "updated": "Tue, 06 Jan 2026 18:31:00 GMT",
+    "updated": "Wed, 07 Jan 2026 18:32:52 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -567,11 +567,12 @@
             "pubDate": "Sat, 20 Dec 2025 07:26:41 +1300"
         },
         {
-            "title": "Materialists, 2025",
+            "title": "Materialists, 2025 - ★★★",
             "link": "https://letterboxd.com/bandary/film/materialists/",
             "letterboxd:filmTitle": "Materialists",
             "letterboxd:watchedDate": "2025-12-24",
-            "pubDate": "Thu, 25 Dec 2025 13:52:48 +1300"
+            "pubDate": "Thu, 25 Dec 2025 13:52:48 +1300",
+            "letterboxd:memberRating": "3.0"
         },
         {
             "title": "Arrival, 2016",
