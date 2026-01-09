@@ -1,5 +1,5 @@
 {
-    "updated": "Thu, 08 Jan 2026 18:28:47 GMT",
+    "updated": "Fri, 09 Jan 2026 18:31:58 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -587,6 +587,22 @@
             "letterboxd:filmTitle": "Wake Up Dead Man",
             "letterboxd:watchedDate": "2026-01-01",
             "pubDate": "Sat, 3 Jan 2026 02:26:01 +1300"
+        },
+        {
+            "title": "Mad Max: Fury Road, 2015 - ★★★★★",
+            "link": "https://letterboxd.com/bandary/film/mad-max-fury-road/",
+            "letterboxd:filmTitle": "Mad Max: Fury Road",
+            "letterboxd:watchedDate": "2026-01-08",
+            "pubDate": "Fri, 9 Jan 2026 11:05:07 +1300",
+            "letterboxd:memberRating": "5.0"
+        },
+        {
+            "title": "Bugonia, 2025 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/bugonia/",
+            "letterboxd:filmTitle": "Bugonia",
+            "letterboxd:watchedDate": "2026-01-07",
+            "pubDate": "Fri, 9 Jan 2026 08:08:12 +1300",
+            "letterboxd:memberRating": "4.0"
         }
     ]
 }
