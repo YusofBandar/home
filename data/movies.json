@@ -1,5 +1,5 @@
 {
-    "updated": "Fri, 16 Jan 2026 18:32:22 GMT",
+    "updated": "Sat, 17 Jan 2026 18:28:19 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -617,6 +617,14 @@
             "letterboxd:filmTitle": "Avatar: Fire and Ash",
             "letterboxd:watchedDate": "2026-01-11",
             "pubDate": "Mon, 12 Jan 2026 08:52:52 +1300"
+        },
+        {
+            "title": "Hamnet, 2025 - ★★★★",
+            "link": "https://letterboxd.com/bandary/film/hamnet/",
+            "letterboxd:filmTitle": "Hamnet",
+            "letterboxd:watchedDate": "2026-01-16",
+            "pubDate": "Sat, 17 Jan 2026 11:33:37 +1300",
+            "letterboxd:memberRating": "4.0"
         }
     ]
 }
