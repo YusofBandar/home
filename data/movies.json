@@ -1,5 +1,5 @@
 {
-    "updated": "Fri, 23 Jan 2026 18:33:26 GMT",
+    "updated": "Sat, 24 Jan 2026 18:29:30 GMT",
     "movies": [
         {
             "title": "The Mastermind, 2025",
@@ -625,6 +625,13 @@
             "letterboxd:watchedDate": "2026-01-16",
             "pubDate": "Sat, 17 Jan 2026 11:33:37 +1300",
             "letterboxd:memberRating": "4.0"
+        },
+        {
+            "title": "Sexy Beast, 2000",
+            "link": "https://letterboxd.com/bandary/film/sexy-beast/",
+            "letterboxd:filmTitle": "Sexy Beast",
+            "letterboxd:watchedDate": "2026-01-23",
+            "pubDate": "Sat, 24 Jan 2026 11:40:43 +1300"
         }
     ]
 }
